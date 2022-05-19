@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/reols"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/purple_200">
+
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="177dp"
+        android:layout_height="48dp"
+        android:fontFamily="serif"
+        android:rotationX="19"
+        android:text="welcome!"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="34sp"
+        android:textStyle="italic"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView"
+        tools:layout_editor_absoluteX="117dp"
+        tools:layout_editor_absoluteY="397dp" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="404dp"
+        android:layout_height="225dp"
+        android:fontFamily="cursive"
+        android:rotationX="25"
+        android:text="Only Add"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="80sp"
+        android:textStyle="bold|italic"
+        tools:layout_editor_absoluteX="3dp"
+        tools:layout_editor_absoluteY="154dp" />
+
+    <Button
+        android:id="@+id/button3"
+        app:backgroundTint="@color/black"
+        android:layout_width="221dp"
+        android:layout_height="52dp"
+        android:background="@drawable/flame_style"
+        android:fontFamily="serif"
+        android:text="Login"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        android:textStyle="bold|italic"
+        tools:layout_editor_absoluteX="101dp"
+        tools:layout_editor_absoluteY="587dp" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
