@@ -3,11 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/ctc2022/Desktop/KaihatsuApplication/app/src/main/res/layout/activity_login.xml" value="0.1" />
-        <entry key="..\:/Users/ctc2022/Desktop/KaihatsuApplication/app/src/main/res/layout/activity_main.xml" value="0.21965579710144928" />
-        <entry key="..\:/Users/ctc2022/Desktop/KaihatsuApplication/app/src/main/res/layout/arisa.xml" value="0.10371376811594203" />
-        <entry key="..\:/Users/ctc2022/Desktop/KaihatsuApplication/app/src/main/res/layout/layout_imai.xml" value="0.10371376811594203" />
-        <entry key="..\:/Users/ctc2022/Desktop/KaihatsuApplication/app/src/main/res/layout/start.xml" value="0.1" />
+        <entry key="..\:/Users/ctc2022/AndroidStudioProjects/KaihatsuApplication/app/src/main/res/drawable/flame_style.xml" value="0.2595" />
+        <entry key="..\:/Users/ctc2022/AndroidStudioProjects/KaihatsuApplication/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/ctc2022/AndroidStudioProjects/KaihatsuApplication/app/src/main/res/layout/arisa.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ctc2022/AndroidStudioProjects/KaihatsuApplication/app/src/main/res/layout/layout_imai.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ctc2022/AndroidStudioProjects/KaihatsuApplication/app/src/main/res/layout/start.xml" value="0.25416666666666665" />
       </map>
     </option>
   </component>
